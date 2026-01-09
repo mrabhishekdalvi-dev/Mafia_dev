@@ -1,1 +1,0 @@
-// Gemini logic moved to script.js.
