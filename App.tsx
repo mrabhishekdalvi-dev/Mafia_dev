@@ -1,1 +1,0 @@
-// Redundant file removed for pure HTML/JS project structure.
