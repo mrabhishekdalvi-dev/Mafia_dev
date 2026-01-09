@@ -1,0 +1,1 @@
+// Assets moved to script.js as strings.

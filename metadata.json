@@ -1,0 +1,5 @@
+{
+  "name": "Mafia's Paradise",
+  "description": "A nautical-themed social deduction multiplayer game where players must find the 'Mafia' among 'Innocents' using cryptic hints and real-time voting.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,1 @@
+// Sync logic moved to script.js.
